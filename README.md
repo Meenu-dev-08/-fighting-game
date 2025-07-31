@@ -1,44 +1,59 @@
-# ⚔️ Street Fighter Style Fighting Game
+# Project Title: Street Fighter Clone Made in Python
 
-🎮 A Python-based 2D fighting game built using `pygame` and `pyglet`, inspired by classic arcade-style Street Fighter games. This simple prototype features character movement, keyboard controls, collision detection, and win/loss logic for 2 players.
+## 1. Project Description:
 
-![Game Screenshot](ca9d9b45-82c4-4f38-860f-6aebc8510993.png)
 
----
+This project is a Clone of the Street Fighter Game. It has been developed in Python programming language, using the Pygame library.
 
-## 📌 Features
 
-- 👨‍👩‍👦 2 Player Game (Player 1 vs Player 2)
-- ⌨️ Keyboard controls for real-time fighting
-- 💥 Collision Detection
-- 🔁 Restart mechanism after win/loss
-- 🕹️ Health bars for both players
-- 🎨 Pixel-art style background & characters
+## 2. Tech Stack:
 
----
+- Python 3
+- Pygame
 
-## 🛠️ Built With
+URL: [https://www.pygame.org/news ](https://www.pygame.org/news)
 
-- **Python**
-- [Pygame](https://www.pygame.org/)
-- [Pyglet](https://pyglet.readthedocs.io/en/latest/)
 
----
+## 3. Installing:
 
-## 🎮 Controls
+1. Clone the git repo
 
-| Player         | Controls           |
-|----------------|--------------------|
-| **Player 1**   | Arrow Keys (← ↑ ↓ →) |
-| **Player 2**   | WASD Keys           |
+```
+https://github.com/russs123/brawler_tut.git
+```
 
----
+2. Open project folder
 
-## 🚀 Getting Started
+3. Explore
 
-### 🔧 Installation
+4. Open main.py and run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fighting-game.git
-   cd fighting-game
+5. Play the game
+
+Enjoy 😎
+
+
+## 4. Contributing:
+
+Pull requests are welcome. 
+
+For major changes, please open an issue first to discuss what you would like to change with project owner (Coding With Russ).
+
+
+## 5. Screen Recording:
+
+https://user-images.githubusercontent.com/15172744/190894691-c52ac22d-b76c-4890-9057-98eed66683a9.mp4
+
+
+## 6. Created By:
+
+Name: Coding With Russ
+
+Project Name: Street Fighter Style Fighting Game in Python using Pygame - Complete Tutorial
+
+Youtube: https://www.youtube.com/watch?v=s5bd9KMSSW4
+
+Github: https://github.com/russs123/brawler_tut
+
+
+
