@@ -19,11 +19,17 @@ A classic 2D two-player fighting game developed using Python, Pygame, and Pyglet
 
 ## 🛠️ Technologies Used:-
 -Python 3
+
 -Pygame (for game loop, events, rendering)
+
 -Pyglet (for audio and lightweight media handling)
+
 -Visual Studio Code (IDE for development)
+
 -Object-Oriented Programming (OOP)
+
 -Keyboard Event Handling
+
 -Collision Detection Algorithms
 
 ## 🎮 Controls
@@ -36,14 +42,20 @@ A classic 2D two-player fighting game developed using Python, Pygame, and Pyglet
 ## 📂 Project Structure
 fighting-game
 ├── assets/ # Game assets (sprites, backgrounds)
+
 ├── fighter/ # Fighter class & logic
+
 ├── Brawler/ # Additional classes or controls
+
 ├── first page/ # (Optional) Intro or splash screen
+
 ├── main.py # Game loop and main logic
+
 ├── README.md # Project documentation
+
 └── screenshot.png # Game screenshot
 
-## 💻 How to Run Locally
+## 💻 How to Run Locally:-
 
 1. **Clone the repository:**
    ```bash
@@ -58,15 +70,23 @@ python main.py
 
 👩‍💻 Author:
 Meenu Sharma
+
 🎓 Final Year B.Tech Student (CSE)
+
 📍 India
+
 💻 Python Developer | Aspiring Game Dev
+
 🌐 GitHub | LinkedIn
 
 ⭐ Support
+
 If you found this project helpful or cool:
+
 🌟 Star this repository
+
 🍴 Fork it to enhance
+
 🐛 Raise an issue for bugs or ideas
 
 #Python #Pygame #Pyglet #GameDevelopment #2DGame #OpenSource #MiniProject #GitHub #WomenWhoCode #FinalYearProject
