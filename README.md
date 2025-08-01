@@ -45,15 +45,9 @@ For major changes, please open an issue first to discuss what you would like to 
 https://user-images.githubusercontent.com/15172744/190894691-c52ac22d-b76c-4890-9057-98eed66683a9.mp4
 
 
-## 6. Created By:
-
-Name: Coding With Russ
+## 6. Created By: Meenu Sharma
 
 Project Name: Street Fighter Style Fighting Game in Python using Pygame - Complete Tutorial
-
-Youtube: https://www.youtube.com/watch?v=s5bd9KMSSW4
-
-Github: https://github.com/russs123/brawler_tut
 
 
 
