@@ -5,8 +5,8 @@
 This project is a 2D street-fighter-style game built using Python libraries like pygame and pyglet. It features two-player keyboard-controlled combat with basic movements, collision detection, health tracking, and auto-reset functionality after a match ends.Designed as a prototype, the game showcases real-time event handling, graphical interface management, and logic-driven win/loss mechanics. The main objective is to demonstrate skills in game development, Python programming, and interactive visual design using open-source libraries.
 The game enables two users to engage in dynamic combat using keyboard controls. Each player can perform attacks, dodge, and move freely within the game arena. The fight continues until one player's health reaches zero, upon which the game declares a winner and automatically resets for a new match.
 
-**This project serves as a demonstration of core game logic implementation and 2D animation using open-source Python libraries. It helped strengthen my skills in:-
-**
+**This project serves as a demonstration of core game logic implementation and 2D animation using open-source Python libraries. It helped strengthen my skills in**:-
+
 -Object-Oriented Programming (OOP)
 
 -Frame-by-frame animation handling
