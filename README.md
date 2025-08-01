@@ -1,53 +1,74 @@
-# Project Title: Street Fighter Clone Made in Python
+## 🔥 Project Overview
+TITTLE:
+# 🥋 Street Fighter Style 2D Fighting Game
 
-## 1. Project Description:
+A classic 2D two-player fighting game developed using Python, Pygame, and Pyglet. This project replicates the arcade-style street fighting experience with character movement, health tracking, and win/loss logic — all controlled by keyboard inputs.
 
+## 📸 Demo Preview
+![screenshot](screenshot.png)
 
-This project is a Clone of the Street Fighter Game. It has been developed in Python programming language, using the Pygame library.
+## 🚀 Features:-
 
+- 🎮 2-player combat system using keyboard controls
+- 🔁 Auto-restart after win/loss
+- 💥 Real-time collision detection
+- ❤️ Dynamic health bars for both players
+- 🎹 Responsive keyboard event handling
+- 🎨 Pixel-style background and character graphics
+- 🧠 Written with clean Object-Oriented Programming (OOP)
 
-## 2. Tech Stack:
+## 🛠️ Technologies Used:-
+-Python 3
+-Pygame (for game loop, events, rendering)
+-Pyglet (for audio and lightweight media handling)
+-Visual Studio Code (IDE for development)
+-Object-Oriented Programming (OOP)
+-Keyboard Event Handling
+-Collision Detection Algorithms
 
-- Python 3
-- Pygame
+## 🎮 Controls
 
-URL: [https://www.pygame.org/news ](https://www.pygame.org/news)
+| Player | Movement        | Attack Keys |
+|--------|------------------|-------------|
+| 🧍 Player 1 | Arrow Keys ←↑↓→ | (Assign if any) |
+| 🧍 Player 2 | W A S D           | (Assign if any)
 
+## 📂 Project Structure
+fighting-game
+├── assets/ # Game assets (sprites, backgrounds)
+├── fighter/ # Fighter class & logic
+├── Brawler/ # Additional classes or controls
+├── first page/ # (Optional) Intro or splash screen
+├── main.py # Game loop and main logic
+├── README.md # Project documentation
+└── screenshot.png # Game screenshot
 
-## 3. Installing:
+## 💻 How to Run Locally
 
-1. Clone the git repo
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Meenu-dev-08/fighting-game.git
+   cd fighting-game
 
-```
-https://github.com/russs123/brawler_tut.git
-```
+## 📂 Install dependencies:
+pip install pygame pyglet
 
-2. Open project folder
+## 🚀 Run the game:
+python main.py
 
-3. Explore
+👩‍💻 Author:
+Meenu Sharma
+🎓 Final Year B.Tech Student (CSE)
+📍 India
+💻 Python Developer | Aspiring Game Dev
+🌐 GitHub | LinkedIn
 
-4. Open main.py and run
+⭐ Support
+If you found this project helpful or cool:
+🌟 Star this repository
+🍴 Fork it to enhance
+🐛 Raise an issue for bugs or ideas
 
-5. Play the game
-
-Enjoy 😎
-
-
-## 4. Contributing:
-
-Pull requests are welcome. 
-
-For major changes, please open an issue first to discuss what you would like to change with project owner (Coding With Russ).
-
-
-## 5. Screen Recording:
-
-https://user-images.githubusercontent.com/15172744/190894691-c52ac22d-b76c-4890-9057-98eed66683a9.mp4
-
-
-## 6. Created By: Meenu Sharma
-
-Project Name: Street Fighter Style Fighting Game in Python using Pygame - Complete Tutorial
-
+#Python #Pygame #Pyglet #GameDevelopment #2DGame #OpenSource #MiniProject #GitHub #WomenWhoCode #FinalYearProject
 
 
