@@ -78,7 +78,9 @@ Meenu Sharma/🎓 Final Year B.Tech Student (CSE)/💻 Python Enthusiast | Game 
 If you found this project helpful or cool:
 
 🌟 Star this repository
+
 🍴 Fork it to enhance
+
 🐛 Raise an issue for bugs or ideas
 
 #Python #Pygame #Pyglet #GameDevelopment #2DGame #OpenSource #MiniProject #GitHub #WomenWhoCode #FinalYearProject
