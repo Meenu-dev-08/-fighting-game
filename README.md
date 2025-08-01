@@ -72,9 +72,6 @@ python main.py
 👩💻 **Author:**
 Meenu Sharma/🎓 Final Year B.Tech Student (CSE)/💻 Python Enthusiast | Game Developer
 
-🌐 GitHub | LinkedIn
-
-
 
 ⭐ **Support**:-
 If you found this project helpful or cool:
