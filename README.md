@@ -4,7 +4,7 @@
 
 A classic 2D two-player fighting game developed using Python, Pygame, and Pyglet. This project replicates the arcade-style street fighting experience with character movement, health tracking, and win/loss logic — all controlled by keyboard inputs.
 
-## 🚀** Features:-**
+## 🚀 Features:-
 
 - 🎮 2-player combat system using keyboard controls
 - 🔁 Auto-restart after win/loss
@@ -14,7 +14,7 @@ A classic 2D two-player fighting game developed using Python, Pygame, and Pyglet
 - 🎨 Pixel-style background and character graphics
 - 🧠 Written with clean Object-Oriented Programming (OOP)
 
-## 🛠️ **Technologies Used:-**
+## 🛠️ Technologies Used:-
 -Python 3
 
 -Pygame (for game loop, events, rendering)
@@ -29,14 +29,14 @@ A classic 2D two-player fighting game developed using Python, Pygame, and Pyglet
 
 -Collision Detection Algorithms
 
-## 🎮 **Controls:-**
+## 🎮 Controls:-
 
 | Player | Movement        | Attack Keys |
 |--------|------------------|-------------|
 | 🧍 Player 1 | Arrow Keys ←↑↓→ | (Assign if any) |
 | 🧍 Player 2 | W A S D           | (Assign if any)
 
-## 📂** Project Structure:-**
+## 📂 Project Structure:-
 fighting-game
 ├── assets/ # Game assets (sprites, backgrounds)
 
@@ -59,20 +59,14 @@ fighting-game
    git clone https://github.com/Meenu-dev-08/fighting-game.git
    cd fighting-game
 
-## 📂 **Install dependencies:**
+## 📂Install dependencies:
 pip install pygame pyglet
 
-## 🚀 **Run the game:**
+## 🚀 Run the game:
 python main.py
 
-## 📸 **Demo Preview**
-![screenshot](screenshot.png)
-
-## 🎥 Gameplay Demo
-
-<p align="center">
-  <img src="demo.gif" width="700" alt="Gameplay Preview">
-</p>
+## 📸Demo Preview:-
+![Game Screenshot](ca9d9b45-82c4-4f38-860f-6aebc8510993.png)
 
 
 👩‍💻 **Author:**
@@ -82,8 +76,7 @@ Meenu Sharma/🎓 Final Year B.Tech Student (CSE)/💻 Python Enthusiast | Game 
 
 
 
-⭐ **Support**
-
+⭐ **Support**:-
 If you found this project helpful or cool:
 
 🌟 Star this repository
