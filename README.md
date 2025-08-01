@@ -69,7 +69,10 @@ python main.py
 
 
 👩💻 **Author:**
-Meenu Sharma/🎓 Final Year B.Tech Student (CSE)/💻 Python Enthusiast | Game Developer
+
+**Meenu Sharma**
+
+🎓 Final Year B.Tech Student (CSE)/💻 Python Enthusiast | Game Developer
 
 
 ⭐ **Support**:-
