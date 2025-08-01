@@ -81,13 +81,17 @@ fighting-game
 
 
 ## 📂Install dependencies:
-pip install pygame pyglet
+      
+    pip install pygame pyglet
 
 
 ## 🚀 Run the game:
-python main.py
+      
+      python main.py
 
-## 📸Demo Preview:- ![Game Screenshot](ca9d9b45-82c4-4f38-860f-6aebc8510993.png)
+## 📸Demo Preview:- 
+
+![Game Screenshot](ca9d9b45-82c4-4f38-860f-6aebc8510993.png)
 
 
 👩💻 **Author:**
