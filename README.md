@@ -1,46 +1,27 @@
-# ⚔️ Street Fighter Style Fighting Game
+💥 Street Fighter Style Fighting Game
 
-🎮 A Python-based 2D fighting game built using `pygame` and `pyglet`, inspired by classic arcade-style Street Fighter games. This simple prototype features character movement, keyboard controls, collision detection, and win/loss logic for 2 players.
+🕹️ Overview
+This is a Python-based 2-player fighting game inspired by Street Fighter. Players control their characters using keyboard keys to attack, dodge, and win the round. The game features character movements, basic controls, collision detection, and winner logic. After each match, the game restarts automatically for the next round.
 
-![Game Screenshot](ca9d9b45-82c4-4f38-860f-6aebc8510993.png)
+✨ Key Features
+🔁 Two-player combat gameplay
 
----
+⌨️ Keyboard-based controls (Arrow keys and WASD)
 
-## 📌 Features
+🧠 Collision detection system
 
-- 👨‍👩‍👦 2 Player Game (Player 1 vs Player 2)
-- ⌨️ Keyboard controls for real-time fighting
-- 💥 Collision Detection
-- 🔁 Restart mechanism after win/loss
-- 🕹️ Health bars for both players
-- 🎨 Pixel-art style background & characters
+🏆 Auto win/lose logic & restart functionality
 
----
+🎮 Simple yet addictive gameplay loop
 
-## 🛠️ Built With
+🧰 Technologies Used
+🐍 Python
 
-- **Python**
-- [Pygame](https://www.pygame.org/)
-- [Pyglet](https://pyglet.readthedocs.io/en/latest/)
+🎮 Pygame
 
----
+🎭 Pyglet (for multimedia handling)
 
-## 🎮 Controls
+💻 Visual Studio Code (for development)
 
-| Player         | Controls           |
-|----------------|--------------------|
-| **Player 1**   | Arrow Keys (← ↑ ↓ →) |
-| **Player 2**   | WASD Keys           |
-
----
-
-## 🚀 Getting Started
-
-### 🔧 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fighting-game.git
-   cd fighting-game
-
-
+🎥 Gameplay Demo
+<p align="center"> <img src="demo.gif" width="720" alt="Street Fighter Game Demo"> </p>
