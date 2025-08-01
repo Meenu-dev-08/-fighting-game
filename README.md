@@ -31,6 +31,7 @@ The game enables two users to engage in dynamic combat using keyboard controls. 
 - 🧠 Written with clean Object-Oriented Programming (OOP)
 
 ## 🛠️ Technologies Used:-
+
 -Python 3
 
 -Pygame (for game loop, events, rendering)
@@ -47,13 +48,16 @@ The game enables two users to engage in dynamic combat using keyboard controls. 
 
 ## 🎮 Controls:-
 
+
 | Player | Movement        | Attack Keys |
 |--------|------------------|-------------|
 | 🧍 Player 1 | Arrow Keys ←↑↓→ | (Assign if any) |
 | 🧍 Player 2 | W A S D           | (Assign if any)
 
 ## 📂 Project Structure:-
+
 fighting-game
+
 ├── assets/ # Game assets (sprites, backgrounds)
 
 ├── fighter/ # Fighter class & logic
@@ -75,8 +79,10 @@ fighting-game
    git clone https://github.com/Meenu-dev-08/fighting-game.git
    cd fighting-game
 
+
 ## 📂Install dependencies:
 pip install pygame pyglet
+
 
 ## 🚀 Run the game:
 python main.py
