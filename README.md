@@ -2,7 +2,25 @@
 **TITTLE:**
 # 🥋 Street Fighter Style 2D Fighting Game
 
-A classic 2D two-player fighting game developed using Python, Pygame, and Pyglet. This project replicates the arcade-style street fighting experience with character movement, health tracking, and win/loss logic — all controlled by keyboard inputs.
+This project is a 2D street-fighter-style game built using Python libraries like pygame and pyglet. It features two-player keyboard-controlled combat with basic movements, collision detection, health tracking, and auto-reset functionality after a match ends.Designed as a prototype, the game showcases real-time event handling, graphical interface management, and logic-driven win/loss mechanics. The main objective is to demonstrate skills in game development, Python programming, and interactive visual design using open-source libraries.
+The game enables two users to engage in dynamic combat using keyboard controls. Each player can perform attacks, dodge, and move freely within the game arena. The fight continues until one player's health reaches zero, upon which the game declares a winner and automatically resets for a new match.
+
+# Key functionalities include keyboard event mapping, sprite rendering, collision detection, health bar tracking, and smooth state transitions. The gameplay loop is designed with an emphasis on performance, simplicity, and responsiveness.
+
+This project serves as a demonstration of core game logic implementation and 2D animation using open-source Python libraries. It helped strengthen my skills in:-
+
+-Object-Oriented Programming (OOP)
+
+-Frame-by-frame animation handling
+
+-Keyboard event processing
+
+-Collision-based interaction logic
+
+-Modular coding practices
+
+-Ideal for beginners and enthusiasts, this game can be expanded with features like background music, character selection, advanced attack combos, or even network multiplayer in future iterations.
+
 
 ## 🚀 Features:-
 
@@ -71,8 +89,7 @@ python main.py
 👩💻 **Author:**
 
 **Meenu Sharma**
-
-🎓 Final Year B.Tech Student (CSE)/💻 Python Enthusiast | Game Developer
+🎓Final Year B.Tech Student (CSE)/💻 Python Enthusiast | Game Developer
 
 
 ⭐ **Support**:-
