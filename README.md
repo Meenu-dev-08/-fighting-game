@@ -19,6 +19,7 @@ The game enables two users to engage in dynamic combat using keyboard controls. 
 
 -Ideal for beginners and enthusiasts, this game can be expanded with features like background music, character selection, advanced attack combos, or even network multiplayer in future iterations.
 
+---
 
 ## 🚀 Features:-
 
@@ -29,6 +30,8 @@ The game enables two users to engage in dynamic combat using keyboard controls. 
 - 🎹 Responsive keyboard event handling
 - 🎨 Pixel-style background and character graphics
 - 🧠 Written with clean Object-Oriented Programming (OOP)
+
+---
 
 ## 🛠️ Technologies Used:-
 
@@ -46,6 +49,8 @@ The game enables two users to engage in dynamic combat using keyboard controls. 
 
 -Collision Detection Algorithms
 
+---
+
 ## 🎮 Controls:-
 
 
@@ -53,6 +58,8 @@ The game enables two users to engage in dynamic combat using keyboard controls. 
 |--------|------------------|-------------|
 | 🧍 Player 1 | Arrow Keys ←↑↓→ | (Assign if any) |
 | 🧍 Player 2 | W A S D           | (Assign if any)
+
+---
 
 ## 📂 Project Structure:-
 
@@ -72,6 +79,8 @@ fighting-game
 
 └── screenshot.png # Game screenshot
 
+---
+
 ## 💻 How to Run Locally:-
 
 1. **Clone the repository:**
@@ -79,27 +88,29 @@ fighting-game
    git clone https://github.com/Meenu-dev-08/fighting-game.git
    cd fighting-game
 
-
+---
 ## 📂Install dependencies:
       
     pip install pygame pyglet
 
+---
 
 ## 🚀 Run the game:
       
       python main.py
+ ---     
 
 ## 📸Demo Preview:- 
 
 ![Game Screenshot](ca9d9b45-82c4-4f38-860f-6aebc8510993.png)
 
-
+---
 👩💻 **Author:**
 
 **Meenu Sharma**
 🎓Final Year B.Tech Student (CSE)/💻 Python Enthusiast | Game Developer
 
-
+---
 ⭐ **Support**:-
 
 If you found this project helpful or cool:
